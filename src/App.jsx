@@ -61,7 +61,7 @@ return (
 <main className="main">
         <header className="main-header">
           <div>
-            <h1>멀티클라우드 웹 앱 모니터링-V1 </h1>
+            <h1>멀티클라우드 웹 앱 모니터링-V3 </h1>
             <p>Node.js 20 · Docker · AWS ECR · EC2 환경 데모 대시보드</p>
           </div>
           <div className="header-actions">
